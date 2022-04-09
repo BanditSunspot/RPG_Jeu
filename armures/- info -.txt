@@ -1,0 +1,2 @@
+(Stats | armure | ou |attaque| )
+(Prix |gold| )
