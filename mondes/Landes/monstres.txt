@@ -1,4 +1,0 @@
-earth golem
-clay golem
-skeleton
-zombie

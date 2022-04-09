@@ -1,5 +1,0 @@
-peasant
-bandit
-troll
-skeleton
-zombie
