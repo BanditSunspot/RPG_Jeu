@@ -1,0 +1,8 @@
+Vie
+Armure
+Mana
+Dégâts
+Level
+Xp actuelle
+Xp for Level up
+Gold
